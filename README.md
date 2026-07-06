@@ -370,7 +370,7 @@ Configure the `DATABASE_URL` environment variable.
 
 # 👨‍💻 Developer
 
-**Prakash Salvi**
+**Aditi Dhanke**
 
 Yadavrao Tasgaonkar Institute of Engineering and Technology
 
